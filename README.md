@@ -22,3 +22,5 @@ AddEventHandler("srb_bacchusbridge:OnBacchusBridgeStateChange", function(destroy
     -- ...
 end)
 ```
+
+https://github.com/user-attachments/assets/fc9e11f2-020d-4cda-8ac0-cd7adfddfb83
